@@ -1,1 +1,1 @@
-"echo paras------- $paras"
+echo "paras------- $paras"
